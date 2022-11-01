@@ -5,7 +5,7 @@ Uses: nodejs/expressjs/pug templates and promises
 
 ## Screenshot
 
-![screenshot](./src/public/images/dashboard_help_02.png)
+![screenshot](https://raw.githubusercontent.com/kmalkin/gitlab-merge-request-dashboard/develop/src/public/images/dashboard_help_02.png)
 
 ## Getting Started
 
